@@ -9,14 +9,14 @@ let pair = 2;
 let pairInfo = [];
 
 const imageDict = {
-  "ultimate humangasaur": ["./download (1).jpg", 2],
-  "ultimate swarmpfire": ["./download (2).jpg", 2],
-  brainstrom: ["./download.jpg", 2],
-  "diamond head": ["./images (1).jpg", 2],
-  ghost: ["./images (2).jpg", 2],
-  wolf: ["./images.jpg", 2],
+  "ultimate humangasaur": ["download (1).jpg", 2],
+  "ultimate swarmpfire": ["download (2).jpg", 2],
+  brainstrom: ["download.jpg", 2],
+  "diamond head": ["images (1).jpg", 2],
+  ghost: ["images (2).jpg", 2],
+  wolf: ["images.jpg", 2],
   accelerate: ["./images.png", 2],
-  rath: ["./rath.png", 2],
+  rath: ["rath.png", 2],
 };
 
 const selectImgTag = [
