@@ -1,0 +1,31 @@
+body{
+  background:url(./src/mobileBackground.jpeg) no-repeat;
+  background-size: cover;
+}
+
+#heading {
+  height: 48px;
+  color: whitesmoke;
+  box-shadow: 5px 2px 10px whitesmoke;
+  font-size: large;
+}
+
+#container {
+  scale: 0.95;
+  width: 320px;
+  height: 320px;
+  margin: 120px auto;
+  left: -10px;
+}
+
+.box {
+  width: 60px;
+  height: 60px;
+  margin: 4px;
+}
+
+.Image,
+.backImg {
+  width: 70px;
+  height: 70px;
+}
