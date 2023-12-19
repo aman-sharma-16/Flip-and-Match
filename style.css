@@ -9,7 +9,7 @@ body {
     -45deg,
     rgb(0, 247, 255),
     rgb(99, 228, 164) ;*/
-  background: url(./src/BackgroundImage.jpg) no-repeat;
+  background: url(./BackgroundImage.jpg) no-repeat;
   background-size: cover;
 }
 #heading {
